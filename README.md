@@ -8,3 +8,5 @@ https://proavipatil.github.io/Email-Signature-1/
                     • Then Go In Gmail  <br>
                     • CTRL + V as it as <br>
 </h5>
+
+<p align="center"><img src="img/sign.png" alt="Email Signature" width="150px;"></p>
